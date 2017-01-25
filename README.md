@@ -1,0 +1,1 @@
+# franz-plugin-maildealer
