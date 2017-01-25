@@ -1,0 +1,23 @@
+{
+  "name": "maildealer",
+  "version": "1.0.0",
+  "description": "maildealer",
+  "main": "index.js",
+  "author": "shigwata <sw1101@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mdpink.maildealer.jp/login.php",
+    "serviceName": "Mail Dealer",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
